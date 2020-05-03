@@ -10,4 +10,6 @@ git push -u origin mastergit push -u origin master
 
 vamos entra com algo novo par mostrar que foi alterado
 
+ls
+da mada
 
